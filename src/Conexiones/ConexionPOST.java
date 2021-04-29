@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author User
+ * @author BrayanCharris
  */
 public class ConexionPOST {
     public static final String URL="jdbc:postgresql://localhost:5432/postgres";

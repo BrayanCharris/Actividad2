@@ -13,7 +13,7 @@ import Conexiones.*;
 
 /**
  *
- * @author User
+ * @author BrayanCharris
  */
 public class Interfaz {
     public void componentes(JPanel panel){

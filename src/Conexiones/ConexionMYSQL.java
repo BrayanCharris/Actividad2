@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author User
+ * @author BrayanCharris
  */
 public class ConexionMYSQL {
     public static String URL="jdbc:mysql://localhost:3306/test";
